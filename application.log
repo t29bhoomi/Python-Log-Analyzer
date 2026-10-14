@@ -1,0 +1,8 @@
+2026-10-14 09:00:00 [INFO] Service started
+2026-10-14 09:01:13 [INFO] GET /health 200
+2026-10-14 09:02:04 [WARNING] Slow response on /api/orders (820 ms)
+2026-10-14 09:02:30 [ERROR] Database connection timeout
+2026-10-14 09:03:10 [INFO] GET /api/orders 200
+2026-10-14 09:04:01 [ERROR] Database connection timeout
+2026-10-14 09:05:45 [CRITICAL] Database unavailable; shutting down
+not a valid log line
